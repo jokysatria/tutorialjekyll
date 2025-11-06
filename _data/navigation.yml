@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  link: /tutorialjekyll/
 - name: About
-  link: /about.html
+  link: /tutorialjekyll/about.html
 - name: Blog
-  link: /blog.html
+  link: /tutorialjekyll/blog.html
